@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274131769247",
+    "project_id": "auth-c73df",
+    "storage_bucket": "auth-c73df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274131769247:android:5031dd0196ae43ee28cfaa",
+        "android_client_info": {
+          "package_name": "com.googleauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO3OAlYOBBM_0rpMe6SLerrGhB5Fk4-uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
